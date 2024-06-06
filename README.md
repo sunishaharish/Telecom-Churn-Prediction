@@ -3,7 +3,7 @@
 ## Project Topic: Reducing churn by identifying high-risk customers for the Telecom industry
 
 ### About the Project:
-- A major telecom company's postpaid business of voice-only plans is struggling to maintain its strong foothold in the local market due to:
+A major telecom company's postpaid business of voice-only plans is struggling to maintain its strong foothold in the local market due to:
 
 - High churn rate amongst customers leading to a revenue decline of ~500k USD every month.
 
